@@ -21,4 +21,5 @@ Steps to create
 - Error Handling and Validation
   - Implementing error handling and validation mechanisms to ensure data integrity 
 - Documentation
-  - Add comments and instructions on how to compile and run system 
+  - Add comments and instructions on how to compile and run system
+  - Create UML Diagrams for practice
